@@ -1,8 +1,4 @@
-Certainly. Below is a **comprehensive `README.md`** for your Veichi inverter sizing script, fully extrapolated on the calculations and formatted for copy-paste into your GitHub repository.
 
----
-
-```markdown
 # Veichi On-Grid Inverter Sizing Tool
 
 This Python script assists with sizing and selecting Veichi on-grid inverters for solar PV systems. It allows users to input their energy consumption, solar resource availability, and panel specifications, then outputs the optimal inverter model and a compliant string and panel layout based on the inverter's voltage limits and power handling capabilities.
@@ -101,5 +97,7 @@ total\_pv\_kw = panels\_needed × panel\_watt ÷ 1000
 * Use as a preliminary design tool only. Final system design should be verified with detailed engineering checks and Veichi documentation.
 
 ---
+## Excel File 
 
+https://webnicpremium-my.sharepoint.com/:x:/g/personal/christiaan_cedarsolar_com/EdkLuEVkvV9PpvzUBLQ_svAB1nP4k33ZG7p6nuXXOzJXmg?e=GbnzDg
 
